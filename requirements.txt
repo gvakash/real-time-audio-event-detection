@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+tensorflow-hub
+numpy
+scipy
+sounddevice
+psutil
+gpiozero
+RPi.GPIO
+twilio
